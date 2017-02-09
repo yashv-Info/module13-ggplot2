@@ -16,6 +16,7 @@ election <- read.csv('data/2016_US_County_Level_Presidential_Results.csv', strin
 
 
 # Use `map_data()` to load the `county` map of the US, storing it in a variable
+map_data()
 
 
 # Inspect this data frame to understand what data yu're working with
